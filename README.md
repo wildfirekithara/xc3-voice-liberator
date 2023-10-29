@@ -2,10 +2,15 @@
 This mod loads Future Redeemed character VOs in the Base Game, and vice versa.
 This works with any and no DLC packs installed/loaded, but is really only useful with DLC4 at the very least.
 
+Why is this useful? You can mod your save file to have Future Redeemed characters to your party in the Base Game, and vice versa, using a save editor tool like [Recordkeeper](https://rocco.dev/recordkeeper/). You can use these characters cross-game even without this mod, and their weapons will have their full SFX, but the characters themselves will not have any VO.
+
 > **Important**: While this mod does not deal with persistent data, you are still using it at your own risk. I am
 not responsible for anything that could happen to your saves, game, console, account, etc.
 
 ## Usage
+
+#### Required version
+Xenoblade Chronicles 3 v2.1.1
 
 #### Switch
 1. Download the latest version of the mod from the [Releases](https://github.com/wildfirekithara/xc3-voice-liberator/releases/latest) page.
