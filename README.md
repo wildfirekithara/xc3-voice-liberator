@@ -24,7 +24,6 @@ Xenoblade Chronicles 3 v2.1.1
 #### Replacing files
 
 After installing the mod, you can place your custom files in the `/atmosphere/contents/010074f013262000/romfs/` folder.  
-This mod enables loading files that would normally be overwritten by the game's archives.
 
 ## Build instructions
 To build the project, install [Rust](https://rustup.rs/) and run
