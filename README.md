@@ -32,7 +32,7 @@ To build the project, install [Rust](https://rustup.rs/) and run
 ```
 
 ## Credits
-The scaffolding, build script, and skyline configuration for this project was borrowed from [xc3-file-loader](https://github.com/RoccoDev/xc3-file-loader).
+The scaffolding, debug print, build script, and skyline configuration for this project was borrowed from [xc3-file-loader](https://github.com/RoccoDev/xc3-file-loader).
 
 ## License
 This mod is distributed under the terms of the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html). See [COPYING](COPYING) for details.
