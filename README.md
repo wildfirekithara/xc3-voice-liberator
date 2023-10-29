@@ -21,10 +21,6 @@ Xenoblade Chronicles 3 v2.1.1
 2. Open Ryujinx, then right-click on the game and select "Open Atmosphere Mods Directory".
 3. From the archive, extract the `exefs` and `romfs` directory into the folder you opened.
 
-#### Replacing files
-
-After installing the mod, you can place your custom files in the `/atmosphere/contents/010074f013262000/romfs/` folder.  
-
 ## Build instructions
 To build the project, install [Rust](https://rustup.rs/) and run
 ```sh
