@@ -7,6 +7,10 @@ Why is this useful? You can mod your save file to have Future Redeemed character
 > **Important**: While this mod does not deal with persistent data, you are still using it at your own risk. I am
 not responsible for anything that could happen to your saves, game, console, account, etc.
 
+## Supported Version
+
+Xenoblade Chronicles 3 — 2.2.0
+
 ## Usage
 
 #### Required version

@@ -1,6 +1,6 @@
 [package]
 name = "xc3-voice-liberator"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["Glimmer Rhodes <glimmerrhodes@gmail.com>"]
 edition = "2021"
 license = "gpl-3.0"
