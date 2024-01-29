@@ -7,14 +7,10 @@ Why is this useful? You can mod your save file to have Future Redeemed character
 > **Important**: While this mod does not deal with persistent data, you are still using it at your own risk. I am
 not responsible for anything that could happen to your saves, game, console, account, etc.
 
-## Supported Version
-
-Xenoblade Chronicles 3 — 2.2.0
-
 ## Usage
 
 #### Required version
-Xenoblade Chronicles 3 v2.1.1
+Xenoblade Chronicles 3 v2.2.0
 
 #### Switch
 1. Download the latest version of the mod from the [Releases](https://github.com/wildfirekithara/xc3-voice-liberator/releases/latest) page.
